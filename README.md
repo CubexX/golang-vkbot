@@ -3,8 +3,8 @@
 Бот для соц. сети ВКонтакте на Golang.
 
 
-$ cd golang-vkbot
+>$ cd golang-vkbot
 
-$ go build
+>$ go build
 
-$ ./golang-vkbot
+>$ ./golang-vkbot
